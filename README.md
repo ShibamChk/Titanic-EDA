@@ -98,7 +98,3 @@ Both tests confirm that gender had a significant statistical impact on survival.
 - Outliers and skewness in Fare influence overall distribution  
 - Gender remains the strongest survival predictor  
 
----
-
-## 📘 Notebook
-The full analysis is included in:
